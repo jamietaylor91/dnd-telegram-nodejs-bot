@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
     "dotenv": "^8.2.0",
+    "requests": "^0.3.0",
     "slimbot": "git+https://github.com/edisonchee/slimbot.git"
   }
 }
